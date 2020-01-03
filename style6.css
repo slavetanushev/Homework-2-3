@@ -1,0 +1,46 @@
+.first {
+    text-align: center;
+    padding: 100px 0;
+    background: #7a88c9;
+  }
+
+  .first-item {
+    display: inline-block;
+    width: 100%;
+  }
+
+  .first:first-child {
+    background: #cbd3f5;
+  }
+
+  .first:last-child {
+    background: #2b3b42;
+  }
+
+  /* buttons css*/
+  .btn {
+    max-width: 250px;
+    min-width: 200px;
+    margin: 1rem;
+    padding: 8px 25px;
+    cursor: pointer;
+    background: none;
+  }
+
+  .btn1 {
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+
+  .btn2 {
+    border: 2px solid white;
+    color: white;
+    border-radius: 30px;
+    text-transform: uppercase;
+  }
+
+  .btn3 {
+    border: 1xp solid white;
+    color: #7a88c9;
+    border-radius: 3px;
+  }

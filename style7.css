@@ -1,0 +1,45 @@
+main {
+  text-align: center;
+}
+form {
+  border-radius: 4px;
+  padding: 15px 8px;
+  margin: 0 auto;
+  width: 240px;
+  background: #475249;
+  color: white;
+  box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.9);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+/* input style */
+input {
+  border: 1px solid #676767;
+  width: 80%;
+  background: none;
+  color: white;
+  padding: 5px 5px;
+  border-radius: 2px;
+  margin: 8px;
+  outline: none;
+  display: inline-block;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+input::placeholder {
+  color: whitesmoke;
+  padding-left: 4px;
+}
+
+/* button style */
+button {
+  border: none;
+  width: 93%;
+  background: #bac775;
+  color: black;
+  padding: 6px 17px;
+  border-radius: 4px;
+  margin: 8px 0;
+  cursor: pointer;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+

@@ -1,0 +1,20 @@
+/* css */
+header {
+    text-align: left;
+    margin: 0px;
+    text-transform: uppercase;
+    color: yellow;
+}
+
+.first-div p{
+    color: aliceblue
+}
+
+.first-div h1{
+    color: aliceblue
+}
+
+body {
+    background: black;
+    font-family: 'Lato', sans-serif;
+}
